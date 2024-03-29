@@ -5,11 +5,10 @@
 <h3 align="center">A passionate Back-End developer</h3>
 
 <br/>
-
 <div align="center">
-- 🔭 I’m currently learning **nodejs**
+-🔭 I’m currently learning **nodejs**
 <br/>
-- 📫 How to reach me **rastinbadpeyma@gmail.com**
+-📫 How to reach me **rastinbadpeyma@gmail.com**
  </div>
  
 <div align="center"> 
