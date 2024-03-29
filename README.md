@@ -7,12 +7,8 @@
 <br/>
 
 <div align="center">
- 
-
 - 🔭 I’m currently learning **nodejs**
-
-     - 📫 How to reach me **rastinbadpeyma@gmail.com**
-
+- 📫 How to reach me **rastinbadpeyma@gmail.com**
  </div>
  
 <div align="center"> 
