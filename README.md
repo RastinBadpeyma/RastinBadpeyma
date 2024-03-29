@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rastin+Badpeyma!;" />
+</h1>
 
-<!--
-**RastinBadpeyma/RastinBadpeyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Back-End developer</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+
+- 🔭 I’m currently learning **nodejs**
+
+     - 📫 How to reach me **rastinbadpeyma@gmail.com**
+
+ </div>
+ 
+<div align="center"> 
+<p align="center">
+<a href="https://linkedin.com/in/in/rastin-badpeyma-0900272a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rastin-badpeyma-0900272a6" height="30" width="40" /></a>
+<a href="https://instagram.com/rastinbadpeyma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rastinbadpeyma" height="30" width="40" /></a>
+</p>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nestjs,docker,mysql,git,php,laravel" /><br>
+</div>
+
+
+
+
+
+
+
+
+
