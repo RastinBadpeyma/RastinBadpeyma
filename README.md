@@ -2,12 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rastin+Badpeyma!;" />
 </h1>
 
-<h3 align="center">A passionate Back-End developer</h3>
+<h3 align="center">Back-End developer</h3>
 
 <br/>
 <div align="center">
--🔭 I’m currently learning **nodejs**
-<br/>
 -📫 How to reach me **rastinbadpeyma@gmail.com**
  </div>
  <br/>
