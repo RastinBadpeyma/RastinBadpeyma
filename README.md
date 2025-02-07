@@ -21,7 +21,7 @@
  <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nestjs,graphql,docker,mysql,git,php,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nestjs,graphql,docker,mysql,git,php,laravel" />
 </div>
 
 
