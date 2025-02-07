@@ -20,7 +20,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nestjs,graphql,docker,mysql,git,php,laravel" /><br>
