@@ -5,24 +5,34 @@
 <h3 align="center">Back-End developer</h3>
 <div align="center">
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-30%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
-![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-85%25-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-40%25-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-30%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-80%25-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-70%25-FF6B6B?style=for-the-badge&logo)
-![Event Driven](https://img.shields.io/badge/Event%20Driven-70%25-4A90E2?style=for-the-badge&logo=eventstore&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo)
+![Event Driven](https://img.shields.io/badge/Event%20Driven-4A90E2?style=for-the-badge&logo=eventstore&logoColor=white)
+
+<hr>
 </div>
-<br/>
 <div align="center">
 -📫 How to reach me **rastinbadpeyma@gmail.com**
  </div>
@@ -37,11 +47,6 @@
 </p>
 </div>
 
- <hr/>
- 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,express,mongodb,postgresql,redis,mysql,rabbitmq,graphql,docker,git,php,laravel,swagger&perline=10" />
-</div>
 
 
 
